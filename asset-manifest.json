@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/stage1/static/css/main.e1bd59c2.css",
+    "main.js": "/stage1/static/js/main.21b65b4e.js",
+    "static/js/453.c2e92e1c.chunk.js": "/stage1/static/js/453.c2e92e1c.chunk.js",
+    "static/media/IAVRABAT.jpg": "/stage1/static/media/IAVRABAT.7aac36918159453f99b3.jpg",
+    "index.html": "/stage1/index.html",
+    "main.e1bd59c2.css.map": "/stage1/static/css/main.e1bd59c2.css.map",
+    "main.21b65b4e.js.map": "/stage1/static/js/main.21b65b4e.js.map",
+    "453.c2e92e1c.chunk.js.map": "/stage1/static/js/453.c2e92e1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1bd59c2.css",
+    "static/js/main.21b65b4e.js"
+  ]
+}
